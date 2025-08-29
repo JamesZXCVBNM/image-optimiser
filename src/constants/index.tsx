@@ -16,5 +16,6 @@ export const DEFAULT_BREAKPOINTS: Breakpoint[] = [
   { name: 'Small Mobile', width: 480, description: 'Small mobile devices' }
 ];
 
+export const STANDARD_ASPECT_RATIOS = ['16:9', '4:3', '3:2', '1:1', '21:9', '9:16']; // Common aspect ratios
 export const MAX_FILE_SIZE = 50 * 1024 * 1024; // 50MB
 export const ACCEPTED_FILE_TYPES = ['image/png', 'image/jpeg', 'image/webp', 'image/tiff'];

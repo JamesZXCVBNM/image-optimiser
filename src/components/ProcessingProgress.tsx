@@ -46,7 +46,7 @@ export function ProcessingProgress({ progress, isComplete, onDownload }: Process
               <div>
                 <h3 className="font-semibold text-gray-900">Processing Images</h3>
                 <p className="text-sm text-gray-600">
-                  {progress?.currentTask || 'Optimizing your images...'}
+                  {progress?.currentTask || 'Optimising your images...'}
                 </p>
               </div>
             </div>

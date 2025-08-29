@@ -130,14 +130,14 @@ function App() {
                             <h2 className="text-lg font-semibold text-gray-900 mb-3">Upload Your Base Image</h2>
                             <p className="text-gray-600 text-sm mb-4">
                                 Start by uploading a high-resolution image (PNG, JPEG, WebP, or TIFF). The image should be at least 2000px wide for optimal results.
-                                Once uploaded, you'll be able to generate multiple optimized versions for different devices and formats.
+                                Once uploaded, you'll be able to generate multiple optimised versions for different devices and formats.
                             </p>
                             <p className="text-gray-600 text-sm">Ideally, your image should match this criteria:</p>
                             <ul className="list-disc list-inside mt-3 space-y-1 text-gray-700 text-sm">
                                 <li>Source image ideally 4K (≈3840px wide) or larger</li>
                                 <li>Use the original (uncompressed) export from your design tool</li>
                                 <li>Avoid upscaling smaller images (quality loss)</li>
-                                <li>No heavy sharpening or prior optimization applied</li>
+                                <li>No heavy sharpening or prior optimisation applied</li>
                                 <li>No overlays, edge rounding, or other similar editing</li>
                                 <li>No text overlaid</li>
                             </ul>
